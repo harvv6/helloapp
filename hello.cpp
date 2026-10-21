@@ -2,6 +2,11 @@
 using namespace std;
 typedef long long ll;
 
+void greetWhite(){
+    cout << "hello white" << "\n";
+    return;
+}
+
 int main() {
 
 // #ifdef LOCAL
