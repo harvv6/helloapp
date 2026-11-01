@@ -15,6 +15,6 @@ int main() {
 
     ios::sync_with_stdio(false);
     cin.tie(0);
-    cout << "hello" << "\n";
+    cout << "hello everyone" << "\n";
     return 0;
 }
