@@ -7,6 +7,11 @@ void greetWhite(){
     return;
 }
 
+void greetBLack(){
+    cout << "hello black" << "\n";
+    return;
+}
+
 int main() {
 
 // #ifdef LOCAL
@@ -16,5 +21,7 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(0);
     cout << "hello everyone" << "\n";
+    greetBLack();
+    greetWhite();
     return 0;
 }
