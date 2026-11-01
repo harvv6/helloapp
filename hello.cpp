@@ -7,6 +7,11 @@ void greetWhite(){
     return;
 }
 
+void greetBLack(){
+    cout << "hello black" << "\n";
+    return;
+}
+
 int main() {
 
 // #ifdef LOCAL
